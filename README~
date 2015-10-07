@@ -259,4 +259,3 @@ vendor
   External libraries that the application depends on. Also includes the plugins
   subdirectory. If the app has frozen rails, those gems also go here, under
   vendor/rails/. This directory is in the load path.
-+ The reason why I change 120 files at a time is beacause I finished the HW4 by git clone from the saasbook/bdd-tdd-cycle directly without forking. Thus, after I forked and git clone from it, I just replace all the files with the folder that I worked with.
